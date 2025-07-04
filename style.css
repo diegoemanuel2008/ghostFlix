@@ -11,6 +11,21 @@ margin-bottom: 100px;
 font-family: "Roboto Mono", monospace;
 }
 
+header{
+ border-bottom: solid 2px color(srgb red rgba(234, 11, 178, 0.449) blue);
+ margin: 20px;
+ font-size: 32px;
+ color: black;
+}
+
+section{
+padding-bottom: 80px;
+padding-top: 80px;
+background: gray;
+display: flex;
+justify-content: center;
+}
+
 h1{
 
     color:rgb(158, 28, 209);
